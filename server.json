@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-09-20T14:10:49.726Z"
+    },
+    {
+      "description": "teste",
+      "price": 12,
+      "category": "teste2",
+      "type": "income",
+      "createdAt": "2023-09-20T20:28:07.955Z",
+      "id": 3
+    },
+    {
+      "description": "arroz",
+      "price": 12,
+      "category": "comida",
+      "type": "outcome",
+      "createdAt": "2023-09-20T20:59:37.490Z",
+      "id": 4
     }
   ]
 }
