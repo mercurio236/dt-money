@@ -23,7 +23,7 @@ export function TransactionProvider({ children }: TransactionProviderProps) {
   const [transactions, setTransactions] = useState<TransactionProps[]>([])
 
   async function loadTransactions() {
-    const response = await fetch('http://localhost:3000/transactions')
+    const response = await fetch('http://localhost:3333/transactions')
     const data = await response.json()
     setTransactions(data)
   }
