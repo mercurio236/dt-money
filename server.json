@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "descriptioin": "Desenvolvimento de site",
+      "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 1400,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "descriptioin": "Hambuguer",
+      "description": "Hambuguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
